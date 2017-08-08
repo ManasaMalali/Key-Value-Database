@@ -1,0 +1,18 @@
+
+  <Project 1>
+    <Test Executive>
+      <Dependencies>
+        XmlDocument, NoSqlDb,Queries,CppProperties,XmlPersist
+      </Dependencies>
+    </Test Executive>
+    <NoSqlDb>
+      <Dependencies>
+        XmlDocument, CppProperties
+      </Dependencies>
+    </NoSqlDb>
+    <Queries>
+      <Dependencies>
+        NoSqlDb,CppProperties
+      </Dependencies>
+    </Queries>
+  </Project 1>

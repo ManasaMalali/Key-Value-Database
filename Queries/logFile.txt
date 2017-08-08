@@ -1,0 +1,33 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Tue Feb  7 11:53:22 2017
+     Path: "C:\Users\chand\Downloads\HelpSession\Queries"
+     Args: Queries.cpp, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      17
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Queries.cpp    function                         ValueOfKey      19       8       1
+               Queries.cpp    function                      ChildrenOfKey      29       9       2
+               Queries.cpp    function                      SpecifiedName      39      15       3
+               Queries.cpp    function                  SpecifiedCategory      56      16       3
+               Queries.cpp    function                patternSimilarToKey      73      15       3
+               Queries.cpp    function                    DataMakingSense      89      15       3
+               Queries.cpp    function                 KetsByEarlierQuery     105      15       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     1 files
